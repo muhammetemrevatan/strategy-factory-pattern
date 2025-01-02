@@ -1,26 +1,25 @@
 ---
 # Project Basic Information
-title: "Advanced Oracle JDBC Application"
-description: "Enterprise-grade Spring Boot application for Oracle DB operations with JDBC, featuring comprehensive REST APIs and robust error handling"
+title: "Card Payment Service with Design Patterns"
+description: "A robust payment processing system implementing Strategy and Factory patterns in Spring Boot, showcasing advanced design pattern implementations"
 showcase: true
-order: 2
+order: 4
 
 # Technologies
 technologies:
-  - "Java 17"
+  - "Java"
   - "Spring Boot"
-  - "Oracle DB"
-  - "JDBC"
+  - "Design Patterns"
   - "REST API"
-  - "Model Mapper"
+  - "Maven"
 
 # Features
 features:
-  - "Custom Exception Handling"
-  - "Data Validation"
-  - "REST API Implementation"
-  - "Database Operations Management"
-  - "Enterprise Architecture"
+  - "Strategy Pattern Implementation"
+  - "Factory Pattern Implementation"
+  - "Flexible Payment Processing"
+  - "Extensible Architecture"
+  - "Clean Code Principles"
 ---
 
 # Card Payment Service using Strategy and Factory Design Patterns
