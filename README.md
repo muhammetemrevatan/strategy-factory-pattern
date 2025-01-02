@@ -1,27 +1,27 @@
 ---
 # Project Basic Information
-title: "Card Payment Service"
-description: "Card payment service built with Java and Spring Boot, utilizing Strategy and Factory design patterns"
+title: "Advanced Oracle JDBC Application"
+description: "Enterprise-grade Spring Boot application for Oracle DB operations with JDBC, featuring comprehensive REST APIs and robust error handling"
 showcase: true
-order: 1
+order: 2
 
 # Technologies
 technologies:
-  - Java
-  - Spring Boot
-  - Design Patterns
-  - REST API
-  - Maven
+  - "Java 17"
+  - "Spring Boot"
+  - "Oracle DB"
+  - "JDBC"
+  - "REST API"
+  - "Model Mapper"
 
 # Features
 features:
-  - "Strategy Pattern Implementation"
-  - "Factory Pattern Implementation"
-  - "Multiple Card Type Support"
-  - "Extensible Payment Algorithm Structure"
-  - "REST API Integration"
+  - "Custom Exception Handling"
+  - "Data Validation"
+  - "REST API Implementation"
+  - "Database Operations Management"
+  - "Enterprise Architecture"
 ---
-
 
 # Card Payment Service using Strategy and Factory Design Patterns
 This project demonstrates a card payment service built with Java and Spring Boot, utilizing both the Strategy and Factory design patterns to enhance flexibility and maintainability.
