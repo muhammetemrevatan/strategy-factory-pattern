@@ -1,3 +1,28 @@
+---
+# Project Basic Information
+title: "Card Payment Service"
+description: "Card payment service built with Java and Spring Boot, utilizing Strategy and Factory design patterns"
+showcase: true
+order: 1
+
+# Technologies
+technologies:
+  - Java
+  - Spring Boot
+  - Design Patterns
+  - REST API
+  - Maven
+
+# Features
+features:
+  - "Strategy Pattern Implementation"
+  - "Factory Pattern Implementation"
+  - "Multiple Card Type Support"
+  - "Extensible Payment Algorithm Structure"
+  - "REST API Integration"
+---
+
+
 # Card Payment Service using Strategy and Factory Design Patterns
 This project demonstrates a card payment service built with Java and Spring Boot, utilizing both the Strategy and Factory design patterns to enhance flexibility and maintainability.
 
