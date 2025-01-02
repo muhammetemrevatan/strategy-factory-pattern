@@ -3,7 +3,7 @@
 title: "Card Payment Service with Design Patterns"
 description: "A robust payment processing system implementing Strategy and Factory patterns in Spring Boot, showcasing advanced design pattern implementations"
 showcase: true
-order: 1
+order: 5
 
 # Technologies
 technologies:
